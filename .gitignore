@@ -19,3 +19,8 @@ config.json
 # OS files
 .DS_Store
 Thumbs.db
+
+# Temporary command logs
+git_log.txt
+commit_log.txt
+step_log.txt
