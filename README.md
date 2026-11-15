@@ -74,6 +74,14 @@ Key options (see `config.json` for the full list):
 - Automatic pathfinding runs in the regular mines and Skull Cavern. In the Volcano Dungeon it does
   not auto-run (lava and other hazards aren't modeled as impassable), though highlighting still works.
 
+## Credits
+
+The ladder/shaft detection in this mod (finding the stones that may spawn a way down, and the
+force-shafts behavior) is based on **Ladder Locator** by yuri-moens
+([Nexus](https://www.nexusmods.com/stardewvalley/mods/3094),
+[source](https://github.com/yuri-moens/LadderLocator)), which is also released under the MIT License.
+Thanks to the author for the original idea and approach.
+
 ## License
 
 Released under the [MIT License](LICENSE).
