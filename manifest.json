@@ -1,0 +1,10 @@
+{
+    "Name": "FindBestWay",
+    "Author": "Booo",
+    "Version": "1.0.0",
+    "Description": "Highlights ladders/shafts in the mines and draws the best route to the nearest one. Fast mode uses multi-goal A* for the shortest path; Valuable mode favors routes that pass valuable ores. Configurable via Generic Mod Config Menu.",
+    "UniqueID": "Booo.FindBestWay",
+    "EntryDLL": "FindBestWay.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}

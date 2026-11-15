@@ -1,0 +1,26 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
+
+# SMAPI / mod build artifacts
+*.zip
+
+# Local config generated at runtime
+config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary command logs
+git_log.txt
+commit_log.txt
+step_log.txt
